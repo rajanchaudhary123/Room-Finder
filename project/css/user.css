@@ -1,0 +1,27 @@
+.add{
+    border: none;
+    border-radius: 50px;
+    padding: 15px 40px;
+    font-size: 25px;
+    cursor: pointer;
+    margin: 20px 20px;
+}
+.add:hover{
+    background:black;
+    color:white;
+}
+.areas{
+    margin-left: 10px;
+    border: none;
+    background-color:transparent;
+    color: white;
+    font-size: 20px;
+}
+.areas:hover{
+    color: yellowgreen;
+    cursor: pointer;
+}
+.areas option{
+    background-color:black;
+    color: white;
+}
